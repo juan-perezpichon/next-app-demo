@@ -129,7 +129,7 @@ Speck-Kit components are built with Tailwind CSS and can be easily customized:
 
 1. Modify component styles in `lib/speck-kit/components/`
 2. Extend component props for additional functionality
-3. Update Tailwind configuration in `tailwind.config.ts`
+3. Update Tailwind theme configuration in `app/globals.css` using the `@theme` directive
 
 ## 📄 License
 
